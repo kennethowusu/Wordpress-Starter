@@ -1,0 +1,41 @@
+/*inclues but not limited to the following
+ *Clearfix
+ *colors
+ *display
+ *embed
+ *flex
+ *float
+ *position
+ *shadows
+ *sizing
+ *spacing
+*text transform
+*vertical align
+*visibility
+*/
+.box-shadow {
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  box-shadow: 3px 3px 2px  red;
+  border-color: coral;
+  boder: blue; }
+
+.something {
+  border: 1px solid blue; }
+
+.box {
+  -webkit-transform: scale3d();
+     -moz-transform: scale3d();
+          transform: scale3d(); }
+
+.shadow {
+  background-color: aliceblue;
+  height: 150px;
+  width: 150px;
+  box-shadow: 0 3px 6px #000;
+  border-radius: 50%;
+  background-color: yellow;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex; }
